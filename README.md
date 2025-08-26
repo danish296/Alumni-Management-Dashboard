@@ -72,19 +72,19 @@ The platform combines automated data collection capabilities with manual data en
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](image1)
+![Dashboard Overview](blob/main/image1.png)
 *Main dashboard showing alumni statistics and crawler status*
 
 ### Alumni Database
-![Alumni Database](image2)
+![Alumni Database](blob/main/image2.png)
 *Comprehensive alumni listing with search and filter capabilities*
 
 ### Import/Export Interface
-![Import Export](image3)
+![Import Export](blob/main/image3.png)
 *Data import/export functionality with multiple options*
 
 ### User Management
-![User Management](image4)
+![User Management](blob/main/image4.png)
 *Administrative interface for managing system users and permissions*
 
 ## 🛠️ Tech Stack
@@ -311,7 +311,7 @@ Jane Smith,jane@example.com,2023,Engineering,StartupXYZ,Manager,"linkedin"
 - `profiles` (semicolon-separated social media profiles)
 
 ### Website Login Import
-![Import Interface](image3)
+![Import Interface](blob/main/image3.png)
 
 ```typescript
 // Website crawling configuration
@@ -365,7 +365,7 @@ interface FilterCriteria {
 
 ## 👤 User Management
 
-![User Management](image4)
+![User Management](blob/main/image4.png)
 
 ### Role-Based Access Control
 ```typescript
@@ -443,7 +443,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Contact
 - **Developer**: [danish296](https://github.com/danish296)
-- **Email**: support@almadatum.com
+- **Email**: danishakhtarx022@engineer.com
 
 ---
 
