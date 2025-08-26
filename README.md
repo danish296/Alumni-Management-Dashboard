@@ -2,7 +2,7 @@
   <h1>🎓 AlmaDatum</h1>
   <p><strong>Professional Alumni Data Collection & Management Portal</strong></p>
   
-  ![Dashboard](image1)
+  ![Dashboard](blob/main/image1.png)
   
   <p>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
